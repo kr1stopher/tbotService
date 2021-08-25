@@ -1,0 +1,9 @@
+tbot services changelog 
+
+8/24/21
+	-Files Created. 
+	-Client file completed 
+	
+8/25/21
+	-Server file completed
+	
